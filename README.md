@@ -39,7 +39,7 @@
 
 ```
 # 从github上Clone项目
-git clone xxx
+git clone https://github.com/zxx1218/voice_translation.git
 
 # 使用conda创建环境
 conda create -n py310 python=3.10
