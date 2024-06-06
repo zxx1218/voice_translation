@@ -81,3 +81,11 @@ python voice_translation_test.py
 
 &emsp;&emsp;目前现存的中文音频翻译模型普遍存在标点符号的缺失问题，如果您需要中文标点符号添加请访问这篇CSDN文章，文章内提供一个中文标点重建的轻量级模型👇
 [基于深度学习的中文语音识别模型（支持wav、mp4、m4v格式音频上传）--提供源码和经训练的模型【已开源】](https://blog.csdn.net/qq_45566099/article/details/139421116)
+
+<hr>
+
+## 作者联系方式：
+
+- VX：Accddvva
+- QQ：1144968929
+
